@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967402614360",
+    "project_id": "gradufsc2023",
+    "storage_bucket": "gradufsc2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967402614360:android:6d8bc37a6e6433755a642d",
+        "android_client_info": {
+          "package_name": "com.rafamadaloz.gradufsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967402614360-0n1aesl1d2pcordsh1ap3ad3im2d7aa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1FSm-bPo-4QoY1qZRD3dBh_CSpTlbgis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967402614360-0n1aesl1d2pcordsh1ap3ad3im2d7aa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
